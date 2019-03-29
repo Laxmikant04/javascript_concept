@@ -26,3 +26,4 @@ var obj={
  console.log(bound(3,4,5));         //output : 14 
 
  
+ //https://medium.com/@madasamy/15-javascript-concepts-that-every-nodejs-programmer-must-to-know-6894f5157cb7

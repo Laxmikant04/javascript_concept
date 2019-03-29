@@ -14,7 +14,7 @@ console.log(add(2)(3)(4)); //output 9
 console.log(add(3)(4)(5)); //output 12
 
 /**
- * curring are useful for creating higher oeder function. which are quite helpful in event handling.
+ * curring are useful for creating higher order function. which are quite helpful in event handling.
  */
 
  

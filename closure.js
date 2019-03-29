@@ -38,4 +38,3 @@ console.log(myModule._privateProperty);     // is undefined
 myModule._privateMethod();                  // is TypeError protected by the module closure
 
 
-//https://medium.com/@madasamy/15-javascript-concepts-that-every-nodejs-programmer-must-to-know-6894f5157cb7
