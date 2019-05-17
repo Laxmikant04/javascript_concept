@@ -31,7 +31,8 @@ var myModule = function() {
         }
     };
 }();
-  
+
+
 myModule.publicMethod();                    // outputs 'Hello World' 
 //protected by the closure  
 console.log(myModule._privateProperty);     // is undefined      
