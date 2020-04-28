@@ -11,5 +11,12 @@
  * Promises/async await
  */
 
-Current version - ES9
+Current version - ES10 (as per wiki)
 https://www.w3schools.com/js/js_versions.asp
+
+Some new Feature in next versions= 
+Iterator/generator
+Promise.finally()
+Shared memory concept
+padding concept
+rest / spread properties
