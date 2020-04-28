@@ -10,3 +10,6 @@
  * template strings
  * Promises/async await
  */
+
+Current version - ES9
+https://www.w3schools.com/js/js_versions.asp
