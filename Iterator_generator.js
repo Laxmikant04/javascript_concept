@@ -3,7 +3,7 @@ Iteration over the items of collection is very commom .Javascript provides may f
 
 Iterator/Generator brings the concept of iteration into the core language.
 
-Iterator :  Iterators are any object that implements iterator protocal by using the next() method that returns tro properrties- 
+Iterator :  Iterators are any object that implements iterator protocal by using the next() method that returns two properrties- 
 
 data: contains the next value in the iteration sequence.
 

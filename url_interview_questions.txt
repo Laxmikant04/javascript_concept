@@ -1,0 +1,15 @@
+https://dmitripavlutin.com/simple-but-tricky-javascript-interview-questions/
+
+
+
+Concept- 
+https://www.hongkiat.com/blog/object-oriented-javascript/
+    -  new
+    - object.create
+    - Using Reflect APi
+https://www.hongkiat.com/blog/getters-setters-javascript/
+https://www.hongkiat.com/blog/useful-javascript-statements/
+
+
+Coding Questions- 
+https://www.fullstack.cafe/blog/javascript-code-interview-questions
