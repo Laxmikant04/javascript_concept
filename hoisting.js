@@ -34,7 +34,11 @@ console.log(UseMe);
 
 var UseMe;
 
-function UseMe()
-{            
-    console.log("UseMe function called");
-}
+
+
+
+//Temporal Dead Zone.
+
+//Temporal Dead Zone for a let veriable is when it's been declared(compile time) but yet not initilized (execution time). REF: https://medium.com/swlh/is-let-really-not-hoisted-abb75c38607e
+
+
