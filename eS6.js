@@ -3,7 +3,7 @@
  * 
  * Let and Const keyword - block scope
  * Added default parameter values.
- * Array functions - foreach,map,filter , reduce
+ * Array functions - find,findIndex,.from
  * arrow functions
  * Classes - inheritance with extends
  * Improved object litrals - Properties and functions
